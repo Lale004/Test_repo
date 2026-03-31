@@ -2,7 +2,7 @@ name: Django CI
 
 on:
   push:
-    branches: [ main ]  # main branch-a push edəndə işə düşəcək
+    branches: [ master ]  # main branch-a push edəndə işə düşəcək
 
 jobs:
   build-and-test:
